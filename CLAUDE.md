@@ -20,3 +20,19 @@ merging to `main`.
 
 See the `CLAUDE.md` inside each team's folder (`onboarding/CLAUDE.md`, `dashboard/CLAUDE.md`)
 for scope-specific context.
+
+## Git workflow (5-person team, shared branches)
+
+Everyone on a team pushes to the same branch (`Onboarding` or `Dashboard`), so:
+
+- **Pull before starting work, and pull again right before pushing.** Run `git pull` (or
+  `git pull --rebase` if you have local commits) before you begin, and once more immediately
+  before `git push`, so you're never pushing on top of stale history.
+- **Commit locally as you go** — don't wait until a big change is finished to make your first
+  commit.
+- **Never push without asking first.** Show the user what's about to be pushed (`git status`,
+  `git diff --stat` against the remote branch, or the commits about to go up) and get an
+  explicit go-ahead before running `git push`. Five people auto-pushing to two shared branches
+  is how broken or half-finished work lands where everyone else is working.
+- If `git pull` reports a conflict, stop and surface it — don't resolve a conflict by guessing
+  which side is right without checking with the user.
