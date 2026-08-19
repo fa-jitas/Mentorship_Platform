@@ -18,7 +18,7 @@
             "group": [
               "components/**",
               "components/icons/**",
-              "ui_kits/mentorship/**"
+              "ui_kits/onboarding/**"
             ],
             "message": "Import design-system components from 'index.js', not component internals."
           }
