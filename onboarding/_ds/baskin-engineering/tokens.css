@@ -1,0 +1,25 @@
+/* UC Santa Cruz Baskin Engineering brand tokens.
+   Source: https://toolkit.engineering.ucsc.edu/baskin-engineering-brand/
+   Values below are the toolkit's official palette and typeface. When using any of these as a
+   foreground/background pair, check contrast (WebAIM Color Contrast Checker, per the toolkit's
+   accessible-design guidance) before shipping. */
+
+:root {
+  /* Primary */
+  --be-orange: #f29813;
+  --be-navy: #003c6c;
+
+  /* Secondary */
+  --be-yellow: #fdc700;
+  --be-cyan: #13a5dc;
+  --be-gray-dark: #75787b;
+  --be-gray-light: #d0d0ce;
+
+  /* Neutrals */
+  --be-black: #000000;
+  --be-white: #ffffff;
+
+  /* Typography — Roboto, free via Google Fonts. The toolkit recommends using only 2-3 weights
+     at a time from: Thin, Light, Regular, Medium, Bold, Black (all with italics). */
+  --be-font: Roboto, system-ui, sans-serif;
+}
