@@ -36,3 +36,11 @@ Everyone on a team pushes to the same branch (`Onboarding` or `Dashboard`), so:
   is how broken or half-finished work lands where everyone else is working.
 - If `git pull` reports a conflict, stop and surface it — don't resolve a conflict by guessing
   which side is right without checking with the user.
+
+## `main` is live (GitHub Pages)
+
+`main` is served publicly at https://fa-jitas.github.io/Mentorship_Platform/ — never push or
+merge into `main` directly. When a branch's work is ready to go live, open a Pull Request into
+`main` on GitHub instead, and only merge it once someone has actually looked at the diff. This
+keeps a review checkpoint before anything reaches the public link, since `main` no longer waits
+for both teams to finish — it updates incrementally as each team's work is ready.
