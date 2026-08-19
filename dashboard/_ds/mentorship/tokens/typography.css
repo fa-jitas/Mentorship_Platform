@@ -1,0 +1,40 @@
+/* Fly Bites type. Inter throughout; sizes are the exact sizes counted in the Figma file
+   (12px dominates at 1056 uses, then 16, 14, 20, 18). Line-height is 100% on nearly
+   every label — the design relies on tight, single-line type. */
+:root{
+  --font-sans:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+  --font-display:'Manrope','Inter',sans-serif;
+
+  --fw-light:300; /* @kind font */
+  --fw-regular:400; /* @kind font */
+  --fw-medium:500; /* @kind font */
+  --fw-semibold:600; /* @kind font */
+  --fw-bold:700; /* @kind font */
+  --fw-extrabold:800; /* @kind font */
+
+  --fs-9:9px;
+  --fs-10:10px;
+  --fs-12:12px;   /* body / meta — the workhorse size */
+  --fs-14:14px;   /* labels above a value */
+  --fs-16:16px;   /* input value, list item title, primary button */
+  --fs-18:18px;
+  --fs-20:20px;   /* screen title, section header, key value (gate, time) */
+  --fs-22:22px;   /* FlyBites wordmark in-app */
+  --fs-35:35px;   /* FlyBites wordmark, brand lockup */
+  --fs-50:50px;
+  --fs-80:80px;
+
+  --lh-tight:100%;   /* the default in this file */
+  --lh-body:1.5; /* @kind font */ /* used on input values and paragraph copy */
+  --ls-wordmark:0.08em;
+
+  /* Named roles */
+  --type-screen-title:var(--fw-regular) var(--fs-20)/var(--lh-tight) var(--font-sans);
+  --type-section-header:var(--fw-semibold) var(--fs-20)/var(--lh-tight) var(--font-sans);
+  --type-value:var(--fw-medium) var(--fs-20)/var(--lh-tight) var(--font-sans);
+  --type-item-title:var(--fw-regular) var(--fs-16)/var(--lh-tight) var(--font-sans);
+  --type-button:var(--fw-medium) var(--fs-16)/var(--lh-tight) var(--font-sans);
+  --type-label:var(--fw-regular) var(--fs-14)/var(--lh-tight) var(--font-sans);
+  --type-meta:var(--fw-regular) var(--fs-12)/var(--lh-tight) var(--font-sans);
+  --type-nav:var(--fw-medium) var(--fs-10)/var(--lh-tight) var(--font-sans);
+}

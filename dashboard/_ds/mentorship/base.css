@@ -1,0 +1,6 @@
+/* Minimal resets + link defaults for the design system. */
+*{box-sizing:border-box}
+body{margin:0;font-family:var(--font-sans);color:var(--text-primary);background:var(--surface-page);-webkit-font-smoothing:antialiased}
+a{color:var(--link);text-decoration:none}
+a:hover{color:var(--fb-navy);text-decoration:underline}
+button{font-family:inherit}
