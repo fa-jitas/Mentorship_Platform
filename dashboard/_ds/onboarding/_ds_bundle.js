@@ -1,4 +1,4 @@
-/* @ds-bundle: {"format":4,"namespace":"FlyBitesDesignSystem_fe3475","components":[{"name":"Badge","sourcePath":"components/Badge.jsx"},{"name":"BatteryDark","sourcePath":"components/BatteryDark.jsx"},{"name":"BrandButton","sourcePath":"components/BrandButton.jsx"},{"name":"Button","sourcePath":"components/Button.jsx"},{"name":"ComponentsTextFieldPrefix","sourcePath":"components/ComponentsTextFieldPrefix.jsx"},{"name":"ComponentsTextFieldSuffix","sourcePath":"components/ComponentsTextFieldSuffix.jsx"},{"name":"CoverPage","sourcePath":"components/CoverPage.jsx"},{"name":"Divider","sourcePath":"components/Divider.jsx"},{"name":"Exit","sourcePath":"components/Exit.jsx"},{"name":"FlightInfo","sourcePath":"components/FlightInfo.jsx"},{"name":"FocusIndicator","sourcePath":"components/FocusIndicator.jsx"},{"name":"IconButtonStandard","sourcePath":"components/IconButtonStandard.jsx"},{"name":"InformationCircle","sourcePath":"components/InformationCircle.jsx"},{"name":"Loading","sourcePath":"components/Loading.jsx"},{"name":"NavBar","sourcePath":"components/NavBar.jsx"},{"name":"OrderButton","sourcePath":"components/OrderButton.jsx"},{"name":"Placeholder","sourcePath":"components/Placeholder.jsx"},{"name":"Plate","sourcePath":"components/Plate.jsx"},{"name":"StarsFilled","sourcePath":"components/StarsFilled.jsx"},{"name":"WiFiSignalDark","sourcePath":"components/WiFiSignalDark.jsx"},{"name":"Icon","sourcePath":"components/icons/Icon.jsx"},{"name":"Approval","sourcePath":"ui_kits/mentorship/Approval.jsx"},{"name":"Cart","sourcePath":"ui_kits/mentorship/Cart.jsx"},{"name":"Checkout","sourcePath":"ui_kits/mentorship/Checkout.jsx"},{"name":"FiRrUtensils","sourcePath":"ui_kits/mentorship/FiRrUtensils.jsx"},{"name":"FlightOrderStatus","sourcePath":"ui_kits/mentorship/FlightOrderStatus.jsx"},{"name":"GrabGo","sourcePath":"ui_kits/mentorship/GrabGo.jsx"},{"name":"HomeAfterOrdering","sourcePath":"ui_kits/mentorship/HomeAfterOrdering.jsx"},{"name":"HomeV1","sourcePath":"ui_kits/mentorship/HomeV1.jsx"},{"name":"InputFlightStatus","sourcePath":"ui_kits/mentorship/InputFlightStatus.jsx"},{"name":"Map","sourcePath":"ui_kits/mentorship/Map.jsx"},{"name":"MapDirectory","sourcePath":"ui_kits/mentorship/MapDirectory.jsx"},{"name":"Menu2","sourcePath":"ui_kits/mentorship/Menu2.jsx"},{"name":"NavBar2","sourcePath":"ui_kits/mentorship/NavBar2.jsx"},{"name":"Onboarding1","sourcePath":"ui_kits/mentorship/Onboarding1.jsx"},{"name":"Onboarding2","sourcePath":"ui_kits/mentorship/Onboarding2.jsx"},{"name":"OrderStatusInDetail","sourcePath":"ui_kits/mentorship/OrderStatusInDetail.jsx"},{"name":"Saved","sourcePath":"ui_kits/mentorship/Saved.jsx"}],"sourceHashes":{"components/Badge.jsx":"afe42348e373","components/BatteryDark.jsx":"fdf6a056277b","components/BrandButton.jsx":"0499262a55bd","components/Button.jsx":"9df1ddaafd43","components/ComponentsTextFieldPrefix.jsx":"d4c4a40c8997","components/ComponentsTextFieldSuffix.jsx":"54cd9c03f5d1","components/CoverPage.jsx":"cad1b97392ce","components/Divider.jsx":"6af86f9d4aa5","components/Exit.jsx":"9ae94e822cee","components/FlightInfo.jsx":"db2cbca2b1e2","components/FocusIndicator.jsx":"1dced77aaaf3","components/IconButtonStandard.jsx":"d0c1bca61079","components/InformationCircle.jsx":"bc6ec8057ab8","components/Loading.jsx":"075fb32c428d","components/NavBar.jsx":"12fd5a5b258f","components/OrderButton.jsx":"47c1379a2ce2","components/Placeholder.jsx":"b525164a2017","components/Plate.jsx":"bbb439c2619a","components/StarsFilled.jsx":"3c9c0ac8b9fb","components/WiFiSignalDark.jsx":"eddb962d699a","components/icons/Icon.jsx":"b81dfc2559d3","components/icons/icon-data.js":"faa74e701deb","ui_kits/mentorship/Approval.jsx":"a08fd399f4c1","ui_kits/mentorship/Cart.jsx":"1f4ba50ea36a","ui_kits/mentorship/Checkout.jsx":"41989caf3cde","ui_kits/mentorship/FiRrUtensils.jsx":"190d3b1cb629","ui_kits/mentorship/FlightOrderStatus.jsx":"8b36da6e6831","ui_kits/mentorship/GrabGo.jsx":"11803c564e02","ui_kits/mentorship/HomeAfterOrdering.jsx":"288e9226449a","ui_kits/mentorship/HomeV1.jsx":"ed8975023043","ui_kits/mentorship/InputFlightStatus.jsx":"35f8ef69c51b","ui_kits/mentorship/Map.jsx":"0e9a276b60ba","ui_kits/mentorship/MapDirectory.jsx":"789a1879c6eb","ui_kits/mentorship/Menu2.jsx":"cbb89219a80a","ui_kits/mentorship/NavBar2.jsx":"833c601c9692","ui_kits/mentorship/Onboarding1.jsx":"f71867d6b1e1","ui_kits/mentorship/Onboarding2.jsx":"fa815c1b40f3","ui_kits/mentorship/OrderStatusInDetail.jsx":"3e32b69b161b","ui_kits/mentorship/Saved.jsx":"40ae4b05bf70"},"inlinedExternals":[],"unexposedExports":[]} */
+/* @ds-bundle: {"format":4,"namespace":"FlyBitesDesignSystem_fe3475","components":[{"name":"Badge","sourcePath":"components/Badge.jsx"},{"name":"BatteryDark","sourcePath":"components/BatteryDark.jsx"},{"name":"BrandButton","sourcePath":"components/BrandButton.jsx"},{"name":"Button","sourcePath":"components/Button.jsx"},{"name":"ComponentsTextFieldPrefix","sourcePath":"components/ComponentsTextFieldPrefix.jsx"},{"name":"ComponentsTextFieldSuffix","sourcePath":"components/ComponentsTextFieldSuffix.jsx"},{"name":"CoverPage","sourcePath":"components/CoverPage.jsx"},{"name":"Divider","sourcePath":"components/Divider.jsx"},{"name":"Exit","sourcePath":"components/Exit.jsx"},{"name":"FlightInfo","sourcePath":"components/FlightInfo.jsx"},{"name":"FocusIndicator","sourcePath":"components/FocusIndicator.jsx"},{"name":"IconButtonStandard","sourcePath":"components/IconButtonStandard.jsx"},{"name":"InformationCircle","sourcePath":"components/InformationCircle.jsx"},{"name":"Loading","sourcePath":"components/Loading.jsx"},{"name":"NavBar","sourcePath":"components/NavBar.jsx"},{"name":"OrderButton","sourcePath":"components/OrderButton.jsx"},{"name":"Placeholder","sourcePath":"components/Placeholder.jsx"},{"name":"Plate","sourcePath":"components/Plate.jsx"},{"name":"StarsFilled","sourcePath":"components/StarsFilled.jsx"},{"name":"WiFiSignalDark","sourcePath":"components/WiFiSignalDark.jsx"},{"name":"Icon","sourcePath":"components/icons/Icon.jsx"},{"name":"Approval","sourcePath":"ui_kits/onboarding/Approval.jsx"},{"name":"Cart","sourcePath":"ui_kits/onboarding/Cart.jsx"},{"name":"Checkout","sourcePath":"ui_kits/onboarding/Checkout.jsx"},{"name":"FiRrUtensils","sourcePath":"ui_kits/onboarding/FiRrUtensils.jsx"},{"name":"FlightOrderStatus","sourcePath":"ui_kits/onboarding/FlightOrderStatus.jsx"},{"name":"GrabGo","sourcePath":"ui_kits/onboarding/GrabGo.jsx"},{"name":"HomeAfterOrdering","sourcePath":"ui_kits/onboarding/HomeAfterOrdering.jsx"},{"name":"HomeV1","sourcePath":"ui_kits/onboarding/HomeV1.jsx"},{"name":"InputFlightStatus","sourcePath":"ui_kits/onboarding/InputFlightStatus.jsx"},{"name":"Map","sourcePath":"ui_kits/onboarding/Map.jsx"},{"name":"MapDirectory","sourcePath":"ui_kits/onboarding/MapDirectory.jsx"},{"name":"Menu2","sourcePath":"ui_kits/onboarding/Menu2.jsx"},{"name":"NavBar2","sourcePath":"ui_kits/onboarding/NavBar2.jsx"},{"name":"Onboarding1","sourcePath":"ui_kits/onboarding/Onboarding1.jsx"},{"name":"Onboarding2","sourcePath":"ui_kits/onboarding/Onboarding2.jsx"},{"name":"OrderStatusInDetail","sourcePath":"ui_kits/onboarding/OrderStatusInDetail.jsx"},{"name":"Saved","sourcePath":"ui_kits/onboarding/Saved.jsx"}],"sourceHashes":{"components/Badge.jsx":"afe42348e373","components/BatteryDark.jsx":"fdf6a056277b","components/BrandButton.jsx":"0499262a55bd","components/Button.jsx":"9df1ddaafd43","components/ComponentsTextFieldPrefix.jsx":"d4c4a40c8997","components/ComponentsTextFieldSuffix.jsx":"54cd9c03f5d1","components/CoverPage.jsx":"cad1b97392ce","components/Divider.jsx":"6af86f9d4aa5","components/Exit.jsx":"9ae94e822cee","components/FlightInfo.jsx":"db2cbca2b1e2","components/FocusIndicator.jsx":"1dced77aaaf3","components/IconButtonStandard.jsx":"d0c1bca61079","components/InformationCircle.jsx":"bc6ec8057ab8","components/Loading.jsx":"075fb32c428d","components/NavBar.jsx":"12fd5a5b258f","components/OrderButton.jsx":"47c1379a2ce2","components/Placeholder.jsx":"b525164a2017","components/Plate.jsx":"bbb439c2619a","components/StarsFilled.jsx":"3c9c0ac8b9fb","components/WiFiSignalDark.jsx":"eddb962d699a","components/icons/Icon.jsx":"b81dfc2559d3","components/icons/icon-data.js":"faa74e701deb","ui_kits/onboarding/Approval.jsx":"a08fd399f4c1","ui_kits/onboarding/Cart.jsx":"1f4ba50ea36a","ui_kits/onboarding/Checkout.jsx":"41989caf3cde","ui_kits/onboarding/FiRrUtensils.jsx":"190d3b1cb629","ui_kits/onboarding/FlightOrderStatus.jsx":"8b36da6e6831","ui_kits/onboarding/GrabGo.jsx":"11803c564e02","ui_kits/onboarding/HomeAfterOrdering.jsx":"288e9226449a","ui_kits/onboarding/HomeV1.jsx":"ed8975023043","ui_kits/onboarding/InputFlightStatus.jsx":"35f8ef69c51b","ui_kits/onboarding/Map.jsx":"0e9a276b60ba","ui_kits/onboarding/MapDirectory.jsx":"789a1879c6eb","ui_kits/onboarding/Menu2.jsx":"cbb89219a80a","ui_kits/onboarding/NavBar2.jsx":"833c601c9692","ui_kits/onboarding/Onboarding1.jsx":"f71867d6b1e1","ui_kits/onboarding/Onboarding2.jsx":"fa815c1b40f3","ui_kits/onboarding/OrderStatusInDetail.jsx":"3e32b69b161b","ui_kits/onboarding/Saved.jsx":"40ae4b05bf70"},"inlinedExternals":[],"unexposedExports":[]} */
 
 (() => {
 
@@ -22491,7 +22491,7 @@ function Icon({
 Object.assign(__ds_scope, { Icon, __ds_default_components_icons_Icon_fio49a: Icon });
 })(); } catch (e) { __ds_ns.__errors.push({ path: "components/icons/Icon.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/Approval.jsx
+// ui_kits/onboarding/Approval.jsx
 try { (() => {
 // figma node: 77:421 Approval
 function Approval(_p = {}) {
@@ -22507,9 +22507,9 @@ function Approval(_p = {}) {
   });
 }
 Object.assign(__ds_scope, { Approval, __ds_default_ui_kits_flybites_Approval_er2l4y: Approval });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/Approval.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/Approval.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/Cart.jsx
+// ui_kits/onboarding/Cart.jsx
 try { (() => {
 // figma node: 202:531 Cart
 function Cart(_p = {}) {
@@ -23836,9 +23836,9 @@ function Cart(_p = {}) {
   }, "20min"))))));
 }
 Object.assign(__ds_scope, { Cart, __ds_default_ui_kits_flybites_Cart_sj7utj: Cart });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/Cart.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/Cart.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/Checkout.jsx
+// ui_kits/onboarding/Checkout.jsx
 try { (() => {
 // figma node: 137:577 Checkout
 function Checkout(_p = {}) {
@@ -24902,9 +24902,9 @@ function Checkout(_p = {}) {
   })));
 }
 Object.assign(__ds_scope, { Checkout, __ds_default_ui_kits_flybites_Checkout_12lrf9v: Checkout });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/Checkout.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/Checkout.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/FiRrUtensils.jsx
+// ui_kits/onboarding/FiRrUtensils.jsx
 try { (() => {
 // figma node: 39:138 fi-rr-utensils
 function FiRrUtensils(_p = {}) {
@@ -24938,9 +24938,9 @@ function FiRrUtensils(_p = {}) {
   })));
 }
 Object.assign(__ds_scope, { FiRrUtensils, __ds_default_ui_kits_flybites_FiRrUtensils_molrpj: FiRrUtensils });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/FiRrUtensils.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/FiRrUtensils.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/FlightOrderStatus.jsx
+// ui_kits/onboarding/FlightOrderStatus.jsx
 try { (() => {
 // figma node: 77:221 Flight & Order Status
 function FlightOrderStatus(_p = {}) {
@@ -24948,9 +24948,9 @@ function FlightOrderStatus(_p = {}) {
   return null;
 }
 Object.assign(__ds_scope, { FlightOrderStatus, __ds_default_ui_kits_flybites_FlightOrderStatus_19uxa4b: FlightOrderStatus });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/FlightOrderStatus.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/FlightOrderStatus.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/InputFlightStatus.jsx
+// ui_kits/onboarding/InputFlightStatus.jsx
 try { (() => {
 // figma node: 115:106 Input Flight Status
 function InputFlightStatus(_p = {}) {
@@ -25463,9 +25463,9 @@ function InputFlightStatus(_p = {}) {
   }, "Terms and Conditions"))));
 }
 Object.assign(__ds_scope, { InputFlightStatus, __ds_default_ui_kits_flybites_InputFlightStatus_1k98wnj: InputFlightStatus });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/InputFlightStatus.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/InputFlightStatus.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/Map.jsx
+// ui_kits/onboarding/Map.jsx
 try { (() => {
 // figma node: 144:376 Map
 function Map(_p = {}) {
@@ -25473,9 +25473,9 @@ function Map(_p = {}) {
   return null;
 }
 Object.assign(__ds_scope, { Map, __ds_default_ui_kits_flybites_Map_suhcaj: Map });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/Map.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/Map.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/Menu2.jsx
+// ui_kits/onboarding/Menu2.jsx
 try { (() => {
 // figma node: 246:1989 Menu
 function Menu2(_p = {}) {
@@ -28045,9 +28045,9 @@ function Menu2(_p = {}) {
   }));
 }
 Object.assign(__ds_scope, { Menu2, __ds_default_ui_kits_flybites_Menu2_ievpms: Menu2 });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/Menu2.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/Menu2.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/NavBar2.jsx
+// ui_kits/onboarding/NavBar2.jsx
 try { (() => {
 // figma node: 129:60 Nav Bar (5 variants)
 const __venc = v => String(v).replace(/[%|=]/g, encodeURIComponent);
@@ -29174,9 +29174,9 @@ function NavBar2(_p = {}) {
   return (__impls[__vkey(props)] ?? __body0)();
 }
 Object.assign(__ds_scope, { NavBar2, __ds_default_ui_kits_flybites_NavBar2_14btkjt: NavBar2 });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/NavBar2.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/NavBar2.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/GrabGo.jsx
+// ui_kits/onboarding/GrabGo.jsx
 try { (() => {
 // figma node: 136:1416 Grab&Go
 function GrabGo(_p = {}) {
@@ -30121,9 +30121,9 @@ function GrabGo(_p = {}) {
   }));
 }
 Object.assign(__ds_scope, { GrabGo, __ds_default_ui_kits_flybites_GrabGo_zr97ov: GrabGo });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/GrabGo.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/GrabGo.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/HomeAfterOrdering.jsx
+// ui_kits/onboarding/HomeAfterOrdering.jsx
 try { (() => {
 // figma node: 136:2873 Home (after ordering)
 function HomeAfterOrdering(_p = {}) {
@@ -34394,9 +34394,9 @@ function HomeAfterOrdering(_p = {}) {
   }));
 }
 Object.assign(__ds_scope, { HomeAfterOrdering, __ds_default_ui_kits_flybites_HomeAfterOrdering_12l5fle: HomeAfterOrdering });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/HomeAfterOrdering.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/HomeAfterOrdering.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/HomeV1.jsx
+// ui_kits/onboarding/HomeV1.jsx
 try { (() => {
 // figma node: 129:348 Home V1
 function HomeV1(_p = {}) {
@@ -38135,9 +38135,9 @@ function HomeV1(_p = {}) {
   }));
 }
 Object.assign(__ds_scope, { HomeV1, __ds_default_ui_kits_flybites_HomeV1_10cp365: HomeV1 });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/HomeV1.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/HomeV1.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/MapDirectory.jsx
+// ui_kits/onboarding/MapDirectory.jsx
 try { (() => {
 // figma node: 188:366 Map Directory
 function MapDirectory(_p = {}) {
@@ -38862,9 +38862,9 @@ function MapDirectory(_p = {}) {
   })))));
 }
 Object.assign(__ds_scope, { MapDirectory, __ds_default_ui_kits_flybites_MapDirectory_1qxg8i8: MapDirectory });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/MapDirectory.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/MapDirectory.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/Onboarding1.jsx
+// ui_kits/onboarding/Onboarding1.jsx
 try { (() => {
 // figma node: 74:11 Onboarding 1
 function Onboarding1(_p = {}) {
@@ -39164,9 +39164,9 @@ function Onboarding1(_p = {}) {
   })));
 }
 Object.assign(__ds_scope, { Onboarding1, __ds_default_ui_kits_flybites_Onboarding1_u4gioh: Onboarding1 });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/Onboarding1.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/Onboarding1.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/Onboarding2.jsx
+// ui_kits/onboarding/Onboarding2.jsx
 try { (() => {
 // figma node: 76:63 Onboarding 2
 function Onboarding2(_p = {}) {
@@ -39474,9 +39474,9 @@ function Onboarding2(_p = {}) {
   })));
 }
 Object.assign(__ds_scope, { Onboarding2, __ds_default_ui_kits_flybites_Onboarding2_u4gioi: Onboarding2 });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/Onboarding2.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/Onboarding2.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/OrderStatusInDetail.jsx
+// ui_kits/onboarding/OrderStatusInDetail.jsx
 try { (() => {
 // figma node: 101:118 Order Status in Detail
 function OrderStatusInDetail(_p = {}) {
@@ -39484,9 +39484,9 @@ function OrderStatusInDetail(_p = {}) {
   return null;
 }
 Object.assign(__ds_scope, { OrderStatusInDetail, __ds_default_ui_kits_flybites_OrderStatusInDetail_17v2zd3: OrderStatusInDetail });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/OrderStatusInDetail.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/OrderStatusInDetail.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/mentorship/Saved.jsx
+// ui_kits/onboarding/Saved.jsx
 try { (() => {
 // figma node: 126:130 Saved
 function Saved(_p = {}) {
@@ -41061,7 +41061,7 @@ function Saved(_p = {}) {
   })));
 }
 Object.assign(__ds_scope, { Saved, __ds_default_ui_kits_flybites_Saved_ij1bg0: Saved });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/mentorship/Saved.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/onboarding/Saved.jsx", error: String((e && e.message) || e) }); }
 
 if (__ds_scope.__ds_default_components_icons_icon_data_12stud1$1nb03e1 === undefined) __ds_scope.__ds_default_components_icons_icon_data_12stud1$1nb03e1 = __ds_scope.__ds_default_components_icons_icon_data_12stud1;
 

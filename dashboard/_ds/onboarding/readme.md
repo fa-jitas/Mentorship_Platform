@@ -143,7 +143,7 @@ tokens/                 colors.css · typography.css · space.css · fonts.css
 guidelines/             foundation specimen cards (Design System tab)
 components/             the component families from the Figma file
 components/icons/        icon-data.js + <Icon>
-ui_kits/mentorship/       the app recreation: 15 screens + interactive index.html
+ui_kits/onboarding/       the app recreation: 15 screens + interactive index.html
 assets/                 brand-mark.png (green donut tile) · wordmark-donut.png
 SKILL.md                portable Agent-Skill entry point
 ```
@@ -206,7 +206,7 @@ Confirmed intentional — do not rename them:
 
 No primitive was invented.
 
-### UI kit screens (`ui_kits/mentorship/`)
+### UI kit screens (`ui_kits/onboarding/`)
 
 `Onboarding1`, `Onboarding2`, `InputFlightStatus`, `HomeV1`, `HomeAfterOrdering`, `Menu2`
 (restaurant menu), `Checkout` (item customise), `Cart`, `Approval`, `FlightOrderStatus`,
@@ -226,5 +226,5 @@ click-through prototype.
   sizes/weights and the "Final_Typeface" specimen.
 - Inter and Manrope are served from Google Fonts (both open source; identical to the source
   faces). No font binaries were included in the Figma file.
-- Screen components under `ui_kits/mentorship/` are machine-extracted and large; they are
+- Screen components under `ui_kits/onboarding/` are machine-extracted and large; they are
   pixel-accurate transcriptions, not hand-written code.
